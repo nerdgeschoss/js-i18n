@@ -11,6 +11,13 @@
   },
   "author": "Jens Ravens <jens@nerdgeschoss.de> (https://jensravens.com/)",
   "license": "MIT",
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nerdgeschoss/js-i18n.git"
+  },
   "devDependencies": {
     "@nerdgeschoss/config": "^0.0.1",
     "@types/node": "^10.11.4",
